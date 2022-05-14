@@ -4,7 +4,7 @@ return [
     'components' => [
         'db' => [
             'class' => 'yii\db\Connection',
-            'dsn' => 'mysql:host=127.0.0.1;dbname=biblioteka',
+            'dsn' => 'mysql:host=localhost;dbname=biblioteka',
             'username' => 'bronco',
             'password' => 'pingwin67A',
             'charset' => 'utf8',
